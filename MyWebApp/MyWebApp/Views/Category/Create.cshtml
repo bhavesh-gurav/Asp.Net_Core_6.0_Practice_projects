@@ -1,0 +1,38 @@
+﻿@model Category
+
+<form method="post">
+
+    <div class="border p-3 mt-4">
+        <div class="row pb-3">
+
+            <h2 class="text-primary">Category</h2>
+            <hr /> 
+
+        </div>
+        <div asp-validation-summary=All></div>   @*Server Validation summary for all text fields*@
+        <div class="row mb-3">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>     @*Server Validation For specific Text field or Value*@
+        </div>
+
+        <div class="row mb-3">
+            <label asp-for="DisplayOrder"></label>
+            <input asp-for="DisplayOrder" class="form-control" />
+            <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+        </div>
+
+        <button class="btn btn-primary" type="submit">Create</button>
+
+    </div>
+    <a asp-action="Index" asp-controller="category" class="btn btn-success mt-5">Back To List</a>
+
+</form>
+
+
+@*Clinet Side Validation to Display error message without page refresh*@
+@section scripts {
+    @{
+        <partial name="_ValidationScriptPartial"/>
+    }
+}

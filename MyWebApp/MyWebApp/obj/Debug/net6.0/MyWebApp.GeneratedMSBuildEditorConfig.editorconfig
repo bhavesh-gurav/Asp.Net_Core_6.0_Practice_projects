@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net Core 6.0\MyWebApp\MyWebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net Core 6.0/MyWebApp/MyWebApp/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net Core 6.0/MyWebApp/MyWebApp/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace MyWebApp.Models
 {
@@ -11,6 +12,7 @@ namespace MyWebApp.Models
         public string? Name { get; set; }
 
         [Required]
+        [DisplayName()]
         public int DisplayOrder { get; set; }
 
         public DateTime CreatedDateTime { get; set; } = DateTime.Now;

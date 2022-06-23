@@ -9,20 +9,22 @@
             <hr /> 
 
         </div>
+
+        <input type="hidden" asp-for="Id" />
         <div asp-validation-summary=All></div>   @*Server Validation summary for all text fields*@
         <div class="row mb-3">
             <label asp-for="Name"></label>
-            <input asp-for="Name" class="form-control" />
+            <input asp-for="Name" class="form-control" disabled/>
             <span asp-validation-for="Name" class="text-danger"></span>     @*Server Validation For specific Text field or Value*@
         </div>
 
         <div class="row mb-3">
             <label asp-for="DisplayOrder"></label>
-            <input asp-for="DisplayOrder" class="form-control" />
+            <input asp-for="DisplayOrder" class="form-control" disabled/>
             <span asp-validation-for="DisplayOrder" class="text-danger"></span>
         </div>
 
-        <button class="btn btn-primary" type="submit">Create</button>
+        <button class="btn btn-danger" type="submit">Delete</button>
 
     </div>
     <a asp-action="Index" asp-controller="category" class="btn btn-success mt-5">Back To List</a>

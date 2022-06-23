@@ -12,7 +12,7 @@ namespace MyWebApp.Models
         public string? Name { get; set; }
 
         [Required]
-        [DisplayName()]
+        [DisplayName("Display Order")]
         public int DisplayOrder { get; set; }
 
         public DateTime CreatedDateTime { get; set; } = DateTime.Now;

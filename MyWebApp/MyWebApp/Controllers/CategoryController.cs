@@ -1,22 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MyWebApp.Data;
-using MyWebApp.Models;
+using MyApp.DataAccessLayer;
+using MyApp.DataAccessLayer.Infrastructure.IRepository;
+using MyApp.Models;
 
 namespace MyWebApp.Controllers
 {
     public class CategoryController : Controller
     {
 
-        private ApplicationDbContext _context;
+        private IUnitOfWork _unitOfWork;
 
-        public CategoryController(ApplicationDbContext context)
+        public CategoryController(IUnitOfWork unitOfWork)
         {
-            _context = context;
+            _unitOfWork = unitOfWork;
         }
 
         public IActionResult Index()
         {
-            IEnumerable<Category> categories = _context.Categories;
+            IEnumerable<Category> categories = _unitOfWork.Category.GetAll();
 
             return View(categories);
         }
@@ -34,8 +35,8 @@ namespace MyWebApp.Controllers
             // Server Side Validation
             if (ModelState.IsValid)  //If your model's all value are right to set then is valid.
             {
-                _context.Categories.Add(category);
-                _context.SaveChanges();
+                _unitOfWork.Category.Add(category);
+                _unitOfWork.Save();
 
                 // Tempddata is work on one request then it will destroy for next request.
                 TempData["success"] = "Category Created Done...";
@@ -52,7 +53,7 @@ namespace MyWebApp.Controllers
             { 
                 return NotFound();
             }
-            var category = _context.Categories.Find(id);
+            var category = _unitOfWork.Category.GetT(x => x.Id == id);
             if(category == null)
             {
                 return NotFound();
@@ -67,8 +68,8 @@ namespace MyWebApp.Controllers
             // Server Side Validation
             if (ModelState.IsValid)  //If your model's all value are right to set then is valid.
             {
-                _context.Categories.Update(category);
-                _context.SaveChanges();
+                _unitOfWork.Category.Update(category);
+                _unitOfWork.Save();
                 TempData["success"] = "Category Updated Done...";
                 return RedirectToAction("Index");
             }
@@ -83,7 +84,7 @@ namespace MyWebApp.Controllers
             {
                 return NotFound();
             }
-            var category = _context.Categories.Find(id);
+            var category = _unitOfWork.Category.GetT(x => x.Id == id);
             if (category == null)
             {
                 return NotFound();
@@ -96,13 +97,13 @@ namespace MyWebApp.Controllers
         public IActionResult DeleteData(int? id)
         {
            
-            var category = _context.Categories.Find(id);
-            if(category == null)
+            var category = _unitOfWork.Category.GetT(x => x.Id == id);
+            if (category == null)
             {
                 return NotFound();
             }
-            _context.Categories.Remove(category);
-            _context.SaveChanges();
+            _unitOfWork.Category.Delete(category);
+            _unitOfWork.Save();
             TempData["success"] = "Category Deleted Done...";
             return RedirectToAction("Index");
         }

@@ -16,4 +16,8 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyApp.DataAccessLayer\MyApp.DataAccessLayer.csproj" />
+  </ItemGroup>
+
 </Project>

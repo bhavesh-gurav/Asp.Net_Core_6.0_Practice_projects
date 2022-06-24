@@ -13,5 +13,7 @@ namespace MyApp.DataAccessLayer
         }
 
         public DbSet<Category> Categories { get; set; }
+
+        public DbSet<Category> Products { get; set; }
     }
 }

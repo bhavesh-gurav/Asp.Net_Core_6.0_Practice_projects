@@ -3,8 +3,9 @@ using MyApp.DataAccessLayer;
 using MyApp.DataAccessLayer.Infrastructure.IRepository;
 using MyApp.Models;
 
-namespace MyWebApp.Controllers
+namespace MyWebApp.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
 
@@ -37,7 +38,7 @@ namespace MyWebApp.Controllers
             {
                 _unitOfWork.Category.Add(category);
                 _unitOfWork.Save();
-
+                
                 // Tempddata is work on one request then it will destroy for next request.
                 TempData["success"] = "Category Created Done...";
                 return RedirectToAction("Index");
@@ -50,11 +51,11 @@ namespace MyWebApp.Controllers
         public IActionResult Edit(int? id)
         {
             if (id == null || id == 0)
-            { 
+            {
                 return NotFound();
             }
             var category = _unitOfWork.Category.GetT(x => x.Id == id);
-            if(category == null)
+            if (category == null)
             {
                 return NotFound();
             }
@@ -96,7 +97,7 @@ namespace MyWebApp.Controllers
         [ValidateAntiForgeryToken]  //When form is submited the it generate token XSS prevent from this attack.
         public IActionResult DeleteData(int? id)
         {
-           
+
             var category = _unitOfWork.Category.GetT(x => x.Id == id);
             if (category == null)
             {

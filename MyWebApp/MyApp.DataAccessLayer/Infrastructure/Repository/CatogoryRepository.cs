@@ -20,7 +20,12 @@ namespace MyApp.DataAccessLayer.Infrastructure.Repository
 
         public void Update(Category category)
         {
-            _context.Categories.Update(category);
+            var categoryDB = _context.Categories.FirstOrDefault(x => x.Id == category.Id);
+            if (categoryDB != null)
+            {
+                categoryDB.Name = categoryDB.Name;
+                categoryDB.DisplayOrder = categoryDB.DisplayOrder;
+            }
         }
     }
 }

@@ -13,7 +13,7 @@ namespace MyApp.DataAccessLayer.Infrastructure.Repository
     {
 
         private readonly ApplicationDbContext _context;
-        private DbSet<T> _dbSet;
+        private readonly DbSet<T> _dbSet;
 
         public Repository(ApplicationDbContext context)
         {

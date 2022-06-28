@@ -19,45 +19,48 @@ namespace MyWebApp.Areas.Admin.Controllers
         public IActionResult Index()
         {
             IEnumerable<Category> categories = _unitOfWork.Category.GetAll();
-
             return View(categories);
         }
 
-        [HttpGet]
-        public IActionResult Create()
-        {
-            return View();
-        }
+        //[HttpGet]
+        //public IActionResult Create()
+        //{
+        //    return View();
+        //}
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]  //When form is submited the it generate token XSS prevent from this attack.
-        public IActionResult Create(Category category)
-        {
-            // Server Side Validation
-            if (ModelState.IsValid)  //If your model's all value are right to set then is valid.
-            {
-                _unitOfWork.Category.Add(category);
-                _unitOfWork.Save();
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]  //When form is submited the it generate token XSS prevent from this attack.
+        //public IActionResult Create(Category category)
+        //{
+        //    // Server Side Validation
+        //    if (ModelState.IsValid)  //If your model's all value are right to set then is valid.
+        //    {
+        //        _unitOfWork.Category.Add(category);
+        //        _unitOfWork.Save();
                 
-                // Tempddata is work on one request then it will destroy for next request.
-                TempData["success"] = "Category Created Done...";
-                return RedirectToAction("Index");
-            }
-            return View(category);
-        }
+        //        // Tempddata is work on one request then it will destroy for next request.
+        //        TempData["success"] = "Category Created Done...";
+        //        return RedirectToAction("Index");
+        //    }
+        //    return View(category);
+        //}
 
 
         [HttpGet]
-        public IActionResult Edit(int? id)
+        public IActionResult CreateUpdate(int? id)
         {
+            Category category = new Category();
             if (id == null || id == 0)
             {
-                return NotFound();
+                return View(category);
             }
-            var category = _unitOfWork.Category.GetT(x => x.Id == id);
-            if (category == null)
+            else
             {
-                return NotFound();
+                //var category = _unitOfWork.Category.GetT(x => x.Id == id);
+                //if (category == null)
+                //{
+                //    return NotFound();
+                //}
             }
             return View(category);
         }

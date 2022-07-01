@@ -19,4 +19,8 @@
     <ProjectReference Include="..\MyApp.DataAccessLayer\MyApp.DataAccessLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\ProductImage\" />
+  </ItemGroup>
+
 </Project>

@@ -87,26 +87,12 @@ namespace MyWebApp.Areas.Admin.Controllers
         //method to post data to unit of work
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult CreateUpdate(ProductVM vm, FormFile? file)
+        public IActionResult CreateUpdate(ProductVM vm, IFormFile? file)
         {
-            
-
             //Checking model state is valid or not it is server side validation.
             if (ModelState.IsValid)
             {
                 //value is equals to 0 then it will create otherwise it will Update a records
-                //if(vm.Category.Id == 0)
-                //{
-                //    _unitOfWork.Category.Add(vm.Category);
-                //    TempData["success"] = "Category Created Done...!";
-                //}
-                //else
-                //{
-                //    _unitOfWork.Category.Update(vm.Category);
-                //    TempData["success"] = "Category Updated Done...!";
-                //}
-
-
                 string filename = String.Empty;
                 if (file != null)
                 {
@@ -123,12 +109,7 @@ namespace MyWebApp.Areas.Admin.Controllers
                 {
                     _unitOfWork.Product.Add(vm.Product);
                 }
-                else
-                {
-
-                }
-                
-
+               
                 _unitOfWork.Save();
                 
                 return RedirectToAction("Index");

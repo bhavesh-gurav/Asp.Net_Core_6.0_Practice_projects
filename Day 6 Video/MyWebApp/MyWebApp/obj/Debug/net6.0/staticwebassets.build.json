@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CMmw9zpRaW55bFxzqFGQPBzxqDpUxLbsU0y27EDbnIA=",
+  "Hash": "HpCLBzwan0knxGCIVOe2GERD/CkPzleT5qc0VPFPZQA=",
   "Source": "MyWebApp",
   "BasePath": "_content/MyWebApp",
   "Mode": "Default",
@@ -1086,6 +1086,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Internship Program\\Asp.Net_Core_6.0_Practice_projects\\Day 6 Video\\MyWebApp\\MyWebApp\\wwwroot\\ProductImage\\72c07273-66d1-448d-8eeb-838524fa434e_Drawing5 (1).png",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Internship Program\\Asp.Net_Core_6.0_Practice_projects\\Day 6 Video\\MyWebApp\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "ProductImage/72c07273-66d1-448d-8eeb-838524fa434e_Drawing5 (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImage\\72c07273-66d1-448d-8eeb-838524fa434e_Drawing5 (1).png"
+    },
+    {
+      "Identity": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Internship Program\\Asp.Net_Core_6.0_Practice_projects\\Day 6 Video\\MyWebApp\\MyWebApp\\wwwroot\\ProductImage\\d174f75b-d9c4-464f-8094-560fbe6a490c_Drawing5 (1).png",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OneDrive - Krish Compusoft Services Pvt Ltd\\Internship Program\\Asp.Net_Core_6.0_Practice_projects\\Day 6 Video\\MyWebApp\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "ProductImage/d174f75b-d9c4-464f-8094-560fbe6a490c_Drawing5 (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImage\\d174f75b-d9c4-464f-8094-560fbe6a490c_Drawing5 (1).png"
     }
   ]
 }

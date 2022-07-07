@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyWebApp
+build_property.RootNamespace = MyWebApp
+build_property.ProjectDir = D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Admin/Views/Category/CreateUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Admin/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Admin/Views/Product/CreateUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGVVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Customer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Customer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Customer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Areas/Customer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Views/Shared/_notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ub3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OneDrive - Krish Compusoft Services Pvt Ltd/Internship Program/Asp.Net_Core_6.0_Practice_projects/Day 7 Video/MyWebApp/MyWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qgspnya79y

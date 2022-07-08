@@ -10,7 +10,16 @@ $(document).ready(function () {
             { "data": "name" },
             { "data": "description" },
             { "data": "price" },
-            { "data": "category.name" }
+            { "data": "category.name" },
+            {
+
+                "data": "id",
+                "render": function (data) {
+                    return `
+                            <a href="/Admin/Product/CreateUpdate?id=${data}"><i class="bi bi-pencil-square"></i></a>
+                        `
+                }
+            }
         ]
     });
 });

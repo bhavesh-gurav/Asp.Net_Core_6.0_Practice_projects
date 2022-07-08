@@ -110,6 +110,18 @@ namespace MyWebApp.Areas.Admin.Controllers
                     string uploadDir = Path.Combine(_hostingEnvironment.WebRootPath, "ProductImage");
                     filename = Guid.NewGuid().ToString() + "_" + file.FileName;
                     string filePath = Path.Combine(uploadDir, filename);
+
+                    // Edit Image Delete Old File and Upload New File
+                    if (vm.Product.ImageUrl != null)
+                    {
+                        //Here Set the path of oldimageurl
+                        var oldImagePath = Path.Combine(_hostingEnvironment.WebRootPath, vm.Product.ImageUrl.TrimStart('\\'));
+                        if (System.IO.File.Exists(oldImagePath))
+                        {
+                            System.IO.File.Delete(oldImagePath);
+                        }
+
+                    }
                     using (var filestream = new FileStream(filePath, FileMode.Create))
                     {
                         file.CopyTo(filestream);
@@ -120,6 +132,11 @@ namespace MyWebApp.Areas.Admin.Controllers
                 {
                     _unitOfWork.Product.Add(vm.Product);
                     TempData["success"] = "Product Created Done...!";
+                }
+                else
+                {
+                    _unitOfWork.Product.Update(vm.Product);
+                    TempData["success"] = "Product Updated Done...!";
                 }
                
                 _unitOfWork.Save();

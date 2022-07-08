@@ -56,7 +56,7 @@ namespace MyApp.DataAccessLayer.Infrastructure.Repository
         {
 
             IQueryable<T> query = _dbSet;
-            query = query.Include(predicate);
+            query = query.Where(predicate);
             if (includePropties != null)
             {
                 foreach (var item in includePropties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))

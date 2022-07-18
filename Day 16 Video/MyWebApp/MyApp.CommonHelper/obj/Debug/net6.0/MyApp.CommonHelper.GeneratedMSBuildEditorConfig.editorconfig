@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyApp.CommonHelper
+build_property.ProjectDir = D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.CommonHelper\

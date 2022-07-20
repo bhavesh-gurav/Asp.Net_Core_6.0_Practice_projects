@@ -1,0 +1,217 @@
+﻿@model MyApp.Models.ViewModels.OrderVM
+@using MyApp.CommonHelper
+@using System.Globalization
+
+<div class="container-sm">
+    <div class="row">
+        <div class="col-6">
+            <h2>Pickup Details</h2>
+            <div class="row mb-3">
+            @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+            {
+                <label asp-for="OrderHeader.Name">Name</label>
+                <input asp-for="OrderHeader.Name" class="form-control" />
+                <span asp-validation-for="OrderHeader.Name" class="text-danger"></span>
+            }
+            else
+            {
+                <label asp-for="OrderHeader.Name">Name</label>
+                <input asp-for="OrderHeader.Name" readonly class="form-control" />
+            }
+            </div>
+
+            <div class="row mb-3">
+            @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+            {
+                <label asp-for="OrderHeader.Phone">Phone</label>
+                <input asp-for="OrderHeader.Phone" class="form-control" />
+                <span asp-validation-for="OrderHeader.Phone" class="text-danger"></span>
+            }
+            else
+            {
+                <label asp-for="OrderHeader.Phone">Phone</label>
+                <input asp-for="OrderHeader.Phone" readonly class="form-control" />
+            }
+            </div>
+
+            <div class="row mb-3">
+            @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+            {
+                <label asp-for="OrderHeader.Address">Address</label>
+                <input asp-for="OrderHeader.Address" class="form-control" />
+                <span asp-validation-for="OrderHeader.Address" class="text-danger"></span>
+            }
+            else
+            {
+                <label asp-for="OrderHeader.Address">Address</label>
+                <input asp-for="OrderHeader.Address" readonly class="form-control" />
+            }
+            </div>
+
+            <div class="row mb-3">
+            @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+            {
+                <label asp-for="OrderHeader.City">City</label>
+                <input asp-for="OrderHeader.City" class="form-control" />
+                <span asp-validation-for="OrderHeader.City" class="text-danger"></span>
+            }
+            else
+            {
+                <label asp-for="OrderHeader.City">City</label>
+                <input asp-for="OrderHeader.City" readonly class="form-control" />
+            }
+            </div>
+               
+            <div class="row mb-3">
+            @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+            {
+                <label asp-for="OrderHeader.State">State</label>
+                <input asp-for="OrderHeader.State" class="form-control" />
+                <span asp-validation-for="OrderHeader.State" class="text-danger"></span>
+            }
+            else
+            {
+                <label asp-for="OrderHeader.State">State</label>
+                <input asp-for="OrderHeader.State" readonly class="form-control" />
+            }
+            </div>
+
+            <div class="row mb-3">
+            @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+            {
+                <label asp-for="OrderHeader.PostalCode">Postal Code</label>
+                <input asp-for="OrderHeader.PostalCode" class="form-control" />
+                <span asp-validation-for="OrderHeader.PostalCode" class="text-danger"></span>
+            }
+            else
+            {
+                <label asp-for="OrderHeader.PostalCode">Postal Code</label>
+                <input asp-for="OrderHeader.PostalCode" readonly class="form-control" />
+            }
+            </div>
+
+            <div class="row mb-3">
+                <label asp-for="OrderHeader.ApplicationUser.Email">Email</label>
+                <input asp-for="OrderHeader.ApplicationUser.Email" readonly class="form-control" />
+            </div>
+
+            <div class="row mb-3">
+                <label asp-for="OrderHeader.DateOfOrder">Order Date</label>
+                <input value="@Model.OrderHeader.DateOfOrder.ToShortDateString()" readonly class="form-control" />
+            </div>
+
+            <div class="row mb-3">
+            @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+            {
+                <label asp-for="OrderHeader.TrackingNumber">Tracking Number</label>
+                <input asp-for="OrderHeader.TrackingNumber" class="form-control" />
+            }
+            else
+            {
+                <label asp-for="OrderHeader.TrackingNumber">Tracking Number</label>
+                <input asp-for="OrderHeader.TrackingNumber" readonly class="form-control" />
+            }
+            </div>
+
+            <div class="row mb-3">
+            @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+            {
+                <label asp-for="OrderHeader.Carrier">Carrier</label>
+                <input asp-for="OrderHeader.Carrier" class="form-control" />
+            }
+            else
+            {
+                <label asp-for="OrderHeader.Carrier">Carrier</label>
+                <input asp-for="OrderHeader.Carrier" readonly class="form-control" />
+            }
+            </div>
+
+            <div class="row mb-3">
+               <label asp-for="OrderHeader.DateOfShipping">Shipping Date</label>
+               <input value="@Model.OrderHeader.DateOfShipping.ToShortDateString()" readonly class="form-control" />
+            </div>
+
+            <div class="row mb-3">
+            @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+            {
+                <label asp-for="OrderHeader.SessionId">SessionId</label>
+                <input readonly asp-for="OrderHeader.SessionId" class="form-control" />
+
+                <label asp-for="OrderHeader.PaymentIntentId">Carrier</label>
+                <input readonly asp-for="OrderHeader.PaymentIntentId" class="form-control" />
+            }
+            </div>
+
+            @if (Model.OrderHeader.SessionId != null)
+            {
+                <div class="row mb-3">
+                    <label asp-for="OrderHeader.DateOfPayment">Payment Date</label>
+                    <input value="@Model.OrderHeader.DateOfPayment.ToShortDateString()" readonly class="form-control" />
+                </div>
+            }
+
+            <div class="row mb-3">
+               <label asp-for="OrderHeader.PaymentStatus">Carrier</label>
+                <input readonly asp-for="OrderHeader.PaymentStatus" class="form-control" />
+            </div>
+
+            <div class="row mb-3">
+                <button type="submit" class="btn btn-primary">Update Order</button>
+            </div>
+        </div>
+
+        <div class="col-6">
+            <div class="mb-4">
+                <div class="card mb-4">
+                    <div class="card-header py-3">
+                        <h5 class="mb-0">Order Summary</h5>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-group list-group-flush">
+                            @foreach (var item in Model.OrderDatail)
+                            {
+                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                                <span>@item.Product.Name</span>
+                                <span>QTY: @item.Count</span>
+                                <span>Price: @item.Price</span>
+                                <div class="text-end">@((item.Count*item.Price).ToString("C", CultureInfo.CreateSpecificCulture("hi-IN")))</div>
+                            </li>
+                            }
+                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                                <div>
+                                </div>
+                                <strong>Total amount : &nbsp; <span class="text-end">@Model.OrderHeader.OrderTotal.ToString("C", CultureInfo.CreateSpecificCulture("hi-IN"))</span></strong>
+                                <strong>
+                                    INR
+                                </strong>
+                                <span><strong></strong></span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    @if(User.IsInRole(WebSIteRole.Role_Admin) || User.IsInRole(WebSIteRole.Role_Employee))
+                    {
+                        if (Model.OrderHeader.OrderStatus == OrderStatus.StatusApproved)
+                        {
+                            <button type="submit" class="btn btn-info btn-lg btn-block mb-2">
+                                Start Processing
+                            </button>
+                        }
+                        if (Model.OrderHeader.OrderStatus == OrderStatus.StatusInProcess)
+                        {
+                            <button type="submit" class="btn btn-success btn-lg btn-block mb-2">
+                                Ship Order
+                            </button>
+                        }
+                        if (Model.OrderHeader.OrderStatus != OrderStatus.StatusRefund || Model.OrderHeader.OrderStatus != OrderStatus.StatusCancelled)
+                        {
+                            <button type="submit" class="btn btn-dark btn-lg btn-block mb-2">
+                                Cancel Order
+                            </button>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,270 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 4 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 5 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 6 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 7 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 8 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 9 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 10 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 11 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 12 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 13 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 14 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 15 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 16 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 17 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 18 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 19 Video\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video 21\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 20 Video - Copy\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 22 Video 23\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\MyApp.Models.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Internship Program\Asp.Net_Core_6.0_Practice_projects\Day 23 Video 24\MyWebApp\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll
